@@ -1,4 +1,4 @@
-# simple calculator using the cocept of function and swwith cases
+# simple calculator using  switch case
 
 
 # function to add two numbers
